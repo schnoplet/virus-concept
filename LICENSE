@@ -1,4 +1,19 @@
-Creative Commons Attribution–NoDerivatives 4.0 International
-(CC BY-ND 4.0)
+Custom Research & Demonstration License
 
-https://creativecommons.org/licenses/by-nd/4.0/
+Copyright © 2026
+
+Permission is granted to download, run, and inspect this software in its
+original, unmodified form for research, educational, and awareness purposes.
+
+The following are NOT permitted without explicit written permission:
+- Modification of the source code or binaries
+- Redistribution of modified versions
+- Incorporation of this code into other software
+- Use beyond reproducing the demonstrated behavior
+
+This software is provided solely to demonstrate design and security
+weaknesses in Microsoft Windows. It is not intended for deployment,
+persistence, or use outside controlled testing.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+ALL RIGHTS RESERVED.
