@@ -1,3 +1,5 @@
+You may run and inspect this project, but you may not modify it or redistribute any versions, including altered ones. If you wish to spread awareness, you may link to this page rather than directly linking to any of the files found here.
+
 Proof of concept highlighting critical weaknesses in Windows UI trust and recovery design.
 
 This project demonstrates that a standard user-mode process — without admin rights, drivers, or kernel exploits — can convincingly lock a Windows session. It does so by switching the user to a separate desktop, presenting a full-screen system-impersonating crash screen, and suppressing Task Manager to block the primary recovery path users rely on.
