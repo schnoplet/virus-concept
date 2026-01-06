@@ -1,5 +1,14 @@
-You may run and inspect this project, but you may not modify it or redistribute any versions, including altered ones. If you wish to spread awareness, you may link to this page rather than directly linking to any of the files found here.
-This repository uses a custom license that allows execution and inspection but prohibits modification to prevent escalation of the demonstrated behavior.
+This repository contains a research-only proof of concept demonstrating design weaknesses in Microsoft Windows UI trust and recovery behavior.
+
+You may download, run, and inspect this project only in its original, unmodified form.
+Modification, derivative works, or redistribution of modified versions are prohibited.
+
+All use is governed by the Custom Research & Demonstration License in the LICENSE file.
+Any use outside those terms is unauthorized and the sole responsibility of the user.
+
+This project exists to raise awareness of architectural issues — not for deployment, persistence, or real-world exploitation.
+
+If you are looking to extend, weaponize, or repurpose this code, you are not permitted to do so.
 
 Proof of concept highlighting critical weaknesses in Windows UI trust and recovery design.
 
