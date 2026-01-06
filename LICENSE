@@ -1,17 +1,80 @@
-Copyright © 2026
+CUSTOM RESEARCH & DEMONSTRATION LICENSE
+(NO DERIVATIVES / NO REDISTRIBUTION OF MODIFIED WORKS)
 
-Permission is granted to download, run, and inspect this software in its
-original, unmodified form for research, educational, and awareness purposes.
+Copyright © 2026. All rights reserved.
 
-The following are NOT permitted without explicit written permission:
-- Modification of the source code or binaries
-- Redistribution of modified versions
-- Incorporation of this code into other software
-- Use beyond reproducing the demonstrated behavior
+1. LIMITED LICENSE GRANT
 
-This software is provided solely to demonstrate design and security
-weaknesses in Microsoft Windows. It is not intended for deployment,
-persistence, or use outside controlled testing.
+Permission is granted solely to download, execute, and inspect this software,
+in source and/or binary form, strictly in its original, unmodified state, and
+only for research, educational, testing, or awareness purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-ALL RIGHTS RESERVED.
+No other rights are granted. All rights not expressly granted are reserved.
+
+
+2. STRICT PROHIBITIONS
+
+Without prior explicit written permission from the copyright holder, you may
+NOT, under any circumstances:
+
+- Modify, adapt, translate, patch, refactor, obfuscate, or otherwise alter
+  the software, in whole or in part
+- Create, distribute, publish, or share derivative works of any kind
+- Redistribute modified versions of the source code or compiled binaries
+- Incorporate this software into any other program, framework, exploit,
+  loader, or system
+- Use this software for persistence, automation, operational deployment,
+  exploitation, or real-world attack scenarios
+- Use this software on systems you do not own or lack explicit authorization
+  to test
+
+Any such use is unauthorized and constitutes copyright infringement.
+
+
+3. INTENT AND NON-ENDORSEMENT
+
+This software is provided solely to demonstrate and document design and
+security weaknesses in Microsoft Windows.
+
+The author does not endorse, authorize, encourage, or consent to any use of
+this software beyond the limited permissions explicitly stated in this
+license.
+
+
+4. DISCLAIMER OF WARRANTY AND LIABILITY
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES, LOSSES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM OR RELATED TO THE SOFTWARE OR ANY UNAUTHORIZED USE THEREOF.
+
+
+5. USER RESPONSIBILITY AND INDEMNIFICATION
+
+Any use of this software outside the scope of this license is undertaken
+entirely at the user’s own risk.
+
+You agree that responsibility for any consequences arising from unauthorized
+use, modification, or redistribution rests solely with the user and not the
+author.
+
+
+6. TERMINATION
+
+Any violation of this license immediately and automatically terminates all
+permissions granted herein, without notice.
+
+
+7. SEVERABILITY
+
+If any provision of this license is held to be unenforceable, the remaining
+provisions shall remain in full force and effect.
+
+
+8. GOVERNING LAW
+
+This license shall be governed by and construed in accordance with applicable
+copyright law.
